@@ -1,0 +1,22 @@
+html,body,a{
+padding: 0;
+border:0;
+margin:0;
+box-sizing: border-box;
+}
+
+body{
+  display: flex;
+}
+a{
+  font-size: 1.6rem;
+  text-decoration: none;
+  padding: 20px;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+[target]{
+  border: 5px dashed hotpink;
+  border-radius: 5px;
+}
