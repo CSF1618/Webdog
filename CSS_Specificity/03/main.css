@@ -1,0 +1,7 @@
+div{
+  background-color: deepskyblue;
+}
+.premier{
+  background-color: bisque;
+}
+/*<div> element got 1 point "premier" class got 10 points. Therefore. Class trumps element.*/

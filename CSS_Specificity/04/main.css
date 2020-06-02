@@ -1,0 +1,7 @@
+div{
+  background-color: blanchedalmond;
+}
+[contenteditable]{
+  background-color: aqua;
+}
+/*<div> element got 1 point, [contenteditable] attribute got 10 points. Therefore, attribute trumps element.*/

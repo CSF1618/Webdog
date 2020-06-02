@@ -1,0 +1,8 @@
+#second{
+  color: darkgreen;
+}
+
+.premier{
+  color: darkblue;
+}
+/* Class "premier" got 10 points ID "second" got 100 points. Therefore. ID trumps Class.*/

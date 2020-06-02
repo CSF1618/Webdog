@@ -1,0 +1,8 @@
+div{
+  background-colo: green;
+}
+
+#second{
+  background-color: orangered;
+}
+/*<div> element got 1 point "second" ID got 100 points. Therefore. ID trumps element.*/

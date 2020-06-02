@@ -1,0 +1,15 @@
+p{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+#normal{
+  font-weight: 400;
+}
+
+#bold{
+  font-weight: 700;
+}
+
+#bolder{
+  font-weight: 900;
+}

@@ -1,0 +1,8 @@
+.first{
+  background-color: lightgreen;
+}
+
+[contenteditable]{
+  background-color: darkcyan;
+}
+/*Because class and attribute gots same value, and attribute came after the class, therefore the last selector get into affect.*/

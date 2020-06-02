@@ -1,0 +1,24 @@
+p{
+font-size: 2.5rem;
+}
+
+#serif{
+  font-family: serif;
+  text-indent: 30%;
+}
+
+#sans-serif{
+  font-family: sans-serif ;
+}
+
+#monospace{
+  font-family: monospace;
+}
+
+#cursive{
+  font-family: cursive;
+}
+
+#fantasy{
+  font-family: fantasy;
+}
